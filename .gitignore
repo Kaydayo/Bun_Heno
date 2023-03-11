@@ -6,6 +6,7 @@ packages/*/*.wasm
 profile.json
 
 node_modules
+node_modules/
 .swcrc
 yarn.lock
 dist
